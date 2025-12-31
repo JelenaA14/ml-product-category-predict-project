@@ -97,7 +97,9 @@ Throughout this project, we covered all essential steps of a real-world machine 
 
 ## 🚀 How to Run the Project
 
-###  Train the Final Modek
+###  Train the Final Model
+
+python src/train_model.py
 
 ## 🧠 Conclusion
 
